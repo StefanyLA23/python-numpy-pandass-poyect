@@ -1,2 +1,55 @@
-# python-numpy-pandass-poyect
-Proyecto práctico de análisis de datos con Python, NumPy y Pandas, enfocado en manipulación de datos, operaciones matemáticas, DataFrames y procesamiento de información mediante 12 ejercicios de Coursera.
+# Python para Análisis de Datos: NumPy y Pandas
+
+Proyecto práctico basado en las 12 tareas de Coursera, organizado en un archivo `.py` por cada tarea.
+
+## Preparar el entorno en VS Code (Windows)
+
+1. Abre la carpeta `python-numpy-pandas` en Visual Studio Code.
+2. Abre la terminal e instala las dependencias:
+
+   `py -m pip install numpy pandas lxml`
+
+3. Ejecuta la primera tarea:
+
+   `py task_01_numpy_arrays.py`
+
+4. Continúa con `py task_02_numpy_functions.py` y así sucesivamente hasta completar las 12 tareas.
+
+**Importante:** La tarea 2 solicita ingresar un número positivo por teclado. La tarea 7 requiere conexión a internet para consultar información de la Administración del Seguro Social de Estados Unidos.
+
+## Mapa de tareas
+
+| N.º | Archivo | Nombre de la tarea | Mini reto |
+|---|---|---|---|
+| 1 | `task_01_numpy_arrays.py` | Arrays unidimensionales y multidimensionales | Crear una matriz 2×4 |
+| 2 | `task_02_numpy_functions.py` | Métodos y funciones de NumPy | Generar 10 números aleatorios |
+| 3 | `task_03_numpy_operations.py` | Operaciones matemáticas en NumPy | Calcular distancias con X e Y |
+| 4 | `task_04_numpy_slicing_indexing.py` | Segmentación e indexación | Reemplazar la última fila por ceros |
+| 5 | `task_05_numpy_conditional_selection.py` | Selección condicional de elementos | Reemplazar negativos e impares |
+| 6 | `task_06_pandas_fundamentals.py` | Fundamentos de Pandas | Crear un portafolio de acciones |
+| 7 | `task_07_pandas_csv_html.py` | Datos CSV y HTML con Pandas | Importar datos de jubilación |
+| 8 | `task_08_pandas_operations.py` | Operaciones con Pandas | Filtrar patrimonios y calcular su suma |
+| 9 | `task_09_pandas_functions.py` | Funciones en Pandas | Actualizar patrimonios mediante funciones |
+| 10 | `task_10_pandas_sorting.py` | Ordenamiento de datos | Ordenar clientes por antigüedad |
+| 11 | `task_11_pandas_concatenation_merging.py` | Concatenación y fusión | Combinar DataFrames |
+| 12 | `task_12_final_project.py` | Proyecto final | Integrar información de clientes bancarios |
+
+## Notas
+
+- Los datos financieros utilizados son ejemplos educativos y no corresponden a registros bancarios reales.
+- La tarea 3 incluye operaciones matemáticas con arrays y cálculos de distancias.
+- La tarea 7 utiliza archivos CSV y tablas HTML para practicar la importación de datos.
+- La tarea 12 integra los conocimientos adquiridos mediante la creación y combinación de DataFrames bancarios.
+- Para visualizar las tablas con un formato similar al de Coursera, también es posible utilizar Jupyter Notebook.
+
+## Autora
+
+**Estefanía Lotero Arévalo**
+
+Estudiante de Ingeniería de Software
+
+GitHub: [StefanyLA23](https://github.com/StefanyLA23)
+
+## Referencia académica
+
+Proyecto desarrollado como práctica del curso *Python para Análisis de Datos: NumPy y Pandas*, disponible en Coursera.
